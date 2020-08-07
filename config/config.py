@@ -1,0 +1,5 @@
+SERVER_HOST = "0.0.0.0"
+SERVER_PORT = 8888
+DEBUG = False  # 启动Flask的Debug模式
+BCRYPT_LEVEL = 13  # 配置Flask-Bcrypt拓展
+PROPAGATE_EXCEPTIONS = True
